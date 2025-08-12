@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Muhammad Shahid Khan! 👋
 
-<!--
-**shahidkhan277/shahidkhan277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FullStack Web Developer | Challenge Lover | Experience Seeker**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate FullStack Web Developer who thrives on solving challenges and embracing new experiences. With expertise in both frontend and backend technologies, I build robust web apps that delight users and scale with businesses.
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
+- **Frontend:** React.js, Next.js, TailwindCSS, Bootstrap, Inertia.js, Chart Libraries
+- **Backend:** Laravel, API Integration & Development, RESTful APIs, MySQL
+- **Other:** SaaS Architecture, AI Integration
+
+---
+
+## 🌟 Favorite Projects
+
+- [Z360](#) — A feature-rich SaaS CRM built with Laravel, React.js, Inertia.js, and more.
+- [EBilling](#) — An intelligent e-billing platform using React.js, Laravel REST API, and AI.
+- [Portfolio](https://muhammad-shahidkhan-portfolio.vercel.app/) — Explore more of my work and experience.
+
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-shahid-khan-60652b267)
+- [Portfolio](https://muhammad-shahidkhan-portfolio.vercel.app/)
+
+---
+
+## 💡 Motto
+
+> **Love Challenges, New Experiences, and Building for Impact.**
+
+---
+
+![Shahid Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahidkhan277&show_icons=true&theme=radical)
