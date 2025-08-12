@@ -21,8 +21,11 @@ I'm a passionate FullStack Web Developer who thrives on solving challenges and e
 
 ## 🌟 Favorite Projects
 
-- [Z360](#) — A feature-rich SaaS CRM built with Laravel, React.js, Inertia.js, and more.
-- [EBilling](#) — An intelligent e-billing platform using React.js, Laravel REST API, and AI.
+- **Z360** — A feature-rich SaaS CRM built with Laravel, React.js, Inertia.js, and more.
+- **EBilling** — An intelligent e-billing platform using React.js, Laravel REST API, and AI.
+- **Lead Management System** — Built with React.js, Laravel, Inertia.js, and TailwindCSS.  
+  - Integrates AI for text extraction from uploaded or live-captured images.
+  - Streamlines lead management with modern UI and automation.
 - [Portfolio](https://muhammad-shahidkhan-portfolio.vercel.app/) — Explore more of my work and experience.
 
 ---
