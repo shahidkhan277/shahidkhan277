@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Shahid Khan! 👋
 
-**FullStack Web Developer | Challenge Lover | Experience Seeker**
+**FullStack Web Developer | Challenge Lover | Continuous Learner**
 
 ---
 
